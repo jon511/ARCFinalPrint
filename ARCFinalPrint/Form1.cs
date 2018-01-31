@@ -282,8 +282,6 @@ namespace ARCFinalPrint
             {
                 path = secondaryPath;
 
-                //ramdom comment
-
             }
 
 
